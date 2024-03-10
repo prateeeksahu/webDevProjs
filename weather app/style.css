@@ -28,6 +28,7 @@ body {
     display: flex;
     align-items:center;
     justify-content: space-between;
+    /* flex-direction: row; */
     
     
 }
@@ -43,6 +44,7 @@ body {
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
+
 }
 
 .search button{
